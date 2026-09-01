@@ -6,7 +6,7 @@ I start with the business problem, define the correct grain, validate relationsh
 
 ## 🚀 Featured Projects
 
-### 🛒 End-to-End E-Commerce Analytics Platform
+### 🛒 End-to-End E-commerce Analytics Platform
 
 Built an end-to-end analytics platform using Snowflake, dbt, SQL, and Power BI to transform raw transactional data into business-ready insights.
 
@@ -14,7 +14,7 @@ Built an end-to-end analytics platform using Snowflake, dbt, SQL, and Power BI t
 
 ---
 
-### 🤖 End-to-End E-Commerce Analytics Agent
+### 🤖 End-to-End E-commerce Analytics Agent
 
 This repository extends the End-to-End E-commerce Analytics Platform project. The original project established the dimensional models and business metrics; this extension adds governed analytical Q&A on top of that foundation.
 
