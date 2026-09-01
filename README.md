@@ -14,11 +14,11 @@ Built an end-to-end analytics platform using Snowflake, dbt, SQL, and Power BI t
 
 ---
 
-### 🤖 End-to-End E-commerce Analytics Agent
+### 🤖 End-to-End E-Commerce Analytics Agent
 
 This repository extends the End-to-End E-commerce Analytics Platform project. The original project established the dimensional models and business metrics; this extension adds governed analytical Q&A on top of that foundation.
 
-🔗 Repository: [End-to-End E-commerce Analytics Agent](https://github.com/narmadapeddi/End-to-End-Ecommerce-Analytics-Agent)
+🔗 Repository: [End-to-End E-Commerce Analytics Agent](https://github.com/narmadapeddi/End-to-End-Ecommerce-Analytics-Agent)
 
 
 --- 
