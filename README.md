@@ -64,7 +64,7 @@ https://narmadapeddi.medium.com
 ---
 
 ## 🌐 Portfolio
-https://narmadapeddi9.wixsite.com/narmada-peddi-portfo
+https://narmada-peddi-analytics.narmadapeddi9.chatgpt.site
 
 ---
 
